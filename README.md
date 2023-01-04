@@ -4,9 +4,6 @@ This project is mainly for video editors
 
 
 This code simply takes any folder you drag into Run.bat and adds inside it:
-### Edit
-### Suond 
-### Videos
 ![image](https://user-images.githubusercontent.com/87055978/210615672-5d0f6510-51e5-49df-b244-261b4c6c458a.png)
 
 folders, you can customise any folder you like
