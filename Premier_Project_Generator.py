@@ -15,7 +15,7 @@ import win32pdhutil
 import wmi
 
 
-
+d
 
 def resource_path(relative_path):
     try:
